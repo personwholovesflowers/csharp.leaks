@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tspud", "tspud\tspud.csproj", "{E11298B1-2595-4723-9EF1-406F0105723F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11298B1-2595-4723-9EF1-406F0105723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11298B1-2595-4723-9EF1-406F0105723F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11298B1-2595-4723-9EF1-406F0105723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11298B1-2595-4723-9EF1-406F0105723F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D6D038-41F8-4C7A-9FFB-9835A260F7D8}
+	EndGlobalSection
+EndGlobal

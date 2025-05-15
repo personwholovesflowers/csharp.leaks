@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\polaar\\Desktop\\.net\\StanleyParableUD-src\\tspud\\tspud.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\polaar\\Desktop\\.net\\StanleyParableUD-src\\tspud\\tspud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\polaar\\Desktop\\.net\\StanleyParableUD-src\\tspud\\tspud.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\polaar\\Desktop\\.net\\StanleyParableUD-src\\tspud\\tspud.csproj",
+        "packagesPath": "C:\\Users\\polaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\polaar\\Desktop\\.net\\StanleyParableUD-src\\tspud\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\P.Drulla\\++projcts\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\polaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
